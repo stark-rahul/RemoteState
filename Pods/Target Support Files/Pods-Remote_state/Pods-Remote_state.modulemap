@@ -1,0 +1,6 @@
+framework module Pods_Remote_state {
+  umbrella header "Pods-Remote_state-umbrella.h"
+
+  export *
+  module * { export * }
+}
